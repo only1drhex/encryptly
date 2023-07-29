@@ -6,7 +6,7 @@ Encryptly is a lightweight JavaScript library that provides easy-to-use function
 
 ## Installation
 
-You can install the `@drhex/encryptly` package using npm:
+You can install the `encryptly` package using npm:
 
 ```bash
 npm install @drhex/encryptly

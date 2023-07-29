@@ -4,7 +4,8 @@
   "description": "Encryptly - Simple and Safe Encryption and Decryption Library.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "example": "node example/example.js"
   },
   "author": "drhex",
   "license": "MIT",
