@@ -51,8 +51,12 @@ const convertedToHex = encryptly.ascii2hex(asciiString);
 console.log('Hex to ASCII:', convertedToAscii);
 console.log('ASCII to Hex:', convertedToHex);
 ```
+## Test
 
+```bash
+npm test 
+```
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
+
