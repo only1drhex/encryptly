@@ -1,5 +1,5 @@
 {
-  "name": "@drhex/encryptly",
+  "name": "encryptly",
   "version": "1.0.0",
   "description": "Encryptly - Simple and Safe Encryption and Decryption Library.",
   "main": "index.js",

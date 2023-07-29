@@ -9,7 +9,7 @@ Encryptly is a lightweight JavaScript library that provides easy-to-use function
 You can install the `encryptly` package using npm:
 
 ```bash
-npm install @drhex/encryptly
+npm install encryptly
 ```
 
 ## Usage
@@ -17,7 +17,7 @@ npm install @drhex/encryptly
 To use Encryptly in your project, you need to require it as follows:
 
 ```javascript
-const encryptly = require('@drhex/encryptly');
+const encryptly = require('encryptly');
 ```
 
 ### Encrypting and Decrypting
@@ -25,7 +25,7 @@ const encryptly = require('@drhex/encryptly');
 Encryptly offers two main functions, `encrypt` and `decrypt`, to encrypt and decrypt data using XOR encryption.
 
 ```javascript
-const encryptly = require('@drhex/encryptly');
+const encryptly = require('encryptly');
 const ENCRYPTION_KEY = 'your_secret_key_here'; // Replace with your secret key
 
 const originalData = 'Secret word here!';
