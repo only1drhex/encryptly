@@ -26,7 +26,8 @@ Encryptly offers two main functions, `encrypt` and `decrypt`, to encrypt and dec
 
 ```javascript
 const encryptly = require('encryptly');
-const ENCRYPTION_KEY = 'your_secret_key_here'; // Replace with your secret key
+const ENCRYPTION_KEY = 'your_secret_key_here'; 
+// Replace with your secret key
 
 const originalData = 'Secret word here!';
 const encryptedData = encryptly.encrypt(originalData, ENCRYPTION_KEY);
