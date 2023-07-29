@@ -1,0 +1,14 @@
+{
+  "name": "@drhex/encryptly",
+  "version": "1.0.0",
+  "description": "Encryptly - Simple and Safe Encryption and Decryption Library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "drhex",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.6.2"
+  }
+}
