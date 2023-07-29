@@ -1,5 +1,5 @@
 
-```markdown
+
 # Encryptly - Simple and Secure Encryption and Decryption Library
 
 Encryptly is a lightweight JavaScript library that provides easy-to-use functions for encrypting and decrypting data securely using XOR encryption. It offers a simple and effective way to protect sensitive information, making it an excellent choice for various applications.
@@ -25,6 +25,7 @@ const encryptly = require('@drhex/encryptly');
 Encryptly offers two main functions, `encrypt` and `decrypt`, to encrypt and decrypt data using XOR encryption.
 
 ```javascript
+const encryptly = require('@drhex/encryptly');
 const ENCRYPTION_KEY = 'your_secret_key_here'; // Replace with your secret key
 
 const originalData = 'Secret word here!';
